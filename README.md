@@ -30,3 +30,8 @@ Implementar rutinas en el NAO para simular movimientos, con el fin de crear ruti
 - **NAOqi SDK (Python)** para control avanzado  
 
 ## ARCHIVOS NECESARIOS
+
+-manifest.xml – XML 
+-Pruebas de movimientos - Choregraphe 
+-behavior_1 – carpeta de archivos
+-translations – carpeta de archivos
