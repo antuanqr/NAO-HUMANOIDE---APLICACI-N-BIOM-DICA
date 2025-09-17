@@ -16,16 +16,6 @@ El **NAO** es un robot humanoide programable de 58 cm de altura, con **25 grados
 
 ---
 
-## 🛠️ Actividad principal del taller
-**Objetivo:** Crear una rutina en el *Timeline* de **Choregraphe** donde el NAO realice una **secuencia de movimientos** que representen la **biomecánica de los miembros superiores**.  
-
-### Pasos:
-1. Insertar un bloque de movimiento para ambos brazos.  
-2. Repetir el procedimiento integrando todos los movimientos propuestos.  
-3. Ajustar las transiciones de tiempo para lograr un movimiento fluido y natural.  
-
----
-
 ## 🚀 Tecnologías utilizadas
 - **Choregraphe Suite 2.8** (entorno de programación visual de NAO)  
 - **NAOqi SDK** (para interacciones avanzadas en Python)  
