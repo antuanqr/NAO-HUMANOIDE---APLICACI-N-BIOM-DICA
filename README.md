@@ -1,4 +1,4 @@
-🤖 **Robótica Asistiva con NAO Humanoide**
+## 🤖 Robótica Asistiva con NAO Humanoide
 
 
 Este repositorio contiene materiales y código relacionados con el **Taller Pre-Congreso** enfocado en el uso del robot humanoide **NAO** dentro de la **robótica asistiva**.  
