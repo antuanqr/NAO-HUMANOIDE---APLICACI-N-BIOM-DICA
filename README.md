@@ -28,3 +28,5 @@ Implementar rutinas en el NAO para simular movimientos, con el fin de crear ruti
 - **Robot NAO V5/V6**  
 - **Choregraphe Suite 2.8** (bloques visuales y timeline)  
 - **NAOqi SDK (Python)** para control avanzado  
+
+## ARCHIVOS NECESARIOS
