@@ -2,4 +2,5 @@ En los siguientes videos se muestra como el NAO - Interpreta la programación po
 
 ![NAO Demo](./Video-de-WhatsApp-2025-09-05-a-las-12.57.11_6e60f758.gif)                
 
+![NAO Demo](Ejemplos/Naomarks.gif)
 
