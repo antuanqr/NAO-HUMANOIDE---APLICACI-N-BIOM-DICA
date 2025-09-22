@@ -35,3 +35,6 @@ Implementar rutinas en el NAO para simular movimientos, con el fin de crear ruti
 -Pruebas de movimientos - Choregraphe 
 -behavior_1 – carpeta de archivos
 -translations – carpeta de archivos
+
+![NAO Robot](./Imagen%20de%20WhatsApp%202025-09-10%20a%20las%2012.57.16_2cd420fb.jpg)
+
